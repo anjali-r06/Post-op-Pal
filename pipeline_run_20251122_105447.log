@@ -1,0 +1,9 @@
+=== PostOp pipeline run started ===
+Working dir: C:\Users\Anjali Rawat\Desktop\post_op
+Log file: C:\Users\Anjali Rawat\Desktop\post_op\pipeline_run_20251122_105447.log
+>>> Running: python "C:\Users\Anjali Rawat\Desktop\post_op\scripts\extract_patient_data.py"
+>>> Running: python "C:\Users\Anjali Rawat\Desktop\post_op\scripts\chunk_text.py"
+>>> Running: python "C:\Users\Anjali Rawat\Desktop\post_op\scripts\create_hf_embeddings.py"
+>>> Running: python "C:\Users\Anjali Rawat\Desktop\post_op\scripts\build_faiss_index.py"
+=== Pipeline run completed ===
+See log file: C:\Users\Anjali Rawat\Desktop\post_op\pipeline_run_20251122_105447.log
