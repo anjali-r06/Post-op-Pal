@@ -1,0 +1,16 @@
+INSERT INTO core.surgery_master (master_surgery_id, name, description, category) VALUES
+('31294978-c3be-4e6f-b316-54a6a09db420', 'Appendectomy', 'Removal of inflamed appendix', 'General Surgery'),
+('87f5bb57-e153-457c-ab02-2c4e03596802', 'Cholecystectomy', 'Removal of gallbladder (usually for stones)', 'General Surgery'),
+('c898a49e-5606-4a68-bdb4-b5825936d5f6', 'Hernia Repair', 'Surgical repair of abdominal wall hernia', 'General Surgery'),
+('b623b4e3-c003-46f9-9e82-7626b2173e2b', 'Cesarean Section (C-Section)', 'Surgical delivery of baby', 'Gynecology'),
+('b0177ca1-c9d7-46f5-bec2-95c09b2ed045', 'ACL Reconstruction', 'Ligament reconstruction in knee', 'Orthopedics'),
+('e5797b86-3c33-420b-9ca3-bf60d54571c7', 'Knee Replacement', 'Replacement of damaged knee joint', 'Orthopedics'),
+('9d1551cc-e8c7-4802-8d31-610cf070374a', 'Hip Replacement', 'Replacement of hip joint', 'Orthopedics'),
+('c57c25f4-703c-4103-8fa8-b63d3ea91d6e', 'Cataract Surgery', 'Removal of cloudy lens & artificial lens placement', 'Ophthalmology'),
+('3d7ae79b-7e31-4352-bf71-116a2dfcd7c4', 'Tonsillectomy', 'Removal of tonsils', 'ENT'),
+('45285cee-ea8e-4c45-b7d1-3be62d52b9b7', 'Thyroidectomy', 'Removal of thyroid gland', 'General Surgery'),
+('b6b48a21-b484-40f6-a3de-c69aba7b6512', 'Ureteroscopy (Kidney Stone Removal)', 'Endoscopic removal of ureter/kidney stone', 'Urology'),
+('4a87d21c-6bb6-41d3-935f-4c64a58e539a', 'Hemorrhoid Surgery', 'Treatment for piles/hemorrhoids', 'General Surgery'),
+('3d9eeae5-9e57-4da3-bd5d-b9be4a126fa5', 'Breast Lumpectomy', 'Removal of a breast lump', 'General Surgery'),
+('87ff13a6-0372-4b6f-bf09-633abfd1ba69', 'Hysterectomy', 'Removal of uterus', 'Gynecology'),
+('d5095df1-2dba-48db-8737-4ff9c71b03ee', 'Anal Fissure Surgery', 'Sphincterotomy for chronic fissure', 'General Surgery');

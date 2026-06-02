@@ -1,0 +1,18 @@
+[
+  {
+    "keywords": ["stomach", "pet", "pet dard", "ache"],
+    "answer": "Pet dard ke liye halka khana khayein, garam pani piyen aur zyada oily food avoid karein."
+  },
+  {
+    "keywords": ["pain", "dard"],
+    "answer": "Thoda pain normal ho sakta hai. Agar pain badhta jaye ya unbearable ho, doctor se consult karein."
+  },
+  {
+    "keywords": ["fever", "bukhar", "temperature"],
+    "answer": "Bukhar me rest lena zaroori hai, fluids zyada piyen aur agar 2 din se zyada rahe toh doctor ko dikhayein."
+  },
+  {
+    "keywords": ["medicine", "dawai"],
+    "answer": "Doctor ke bina salah ke koi nayi dawai na lein. Prescribed medicines hi continue karein."
+  }
+]
